@@ -5,7 +5,7 @@ void main()
 	float a,b;
 	float sum=0,pro=1,div=1,avg=1;
 	clrscr();
-	printf("entertwo numbers\n");
+	printf("enter 2 numbers\n");
 	scanf("%f%f",&a,&b);
 	sum=a+b;
 	printf("sum=%f",sum);
