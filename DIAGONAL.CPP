@@ -6,7 +6,6 @@ int main()
 {
 
 clrscr();
-cout<<"                         www.turboc8.com"<<endl;
 int a[50][50],b=0,i,j,m,n;
 cout<<"Enter the order of matrix ";
 cin>>n;
